@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "aprobar el curso de Digital House",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Completar Playground",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Ver One Piece",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "aprobar",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "estudiar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "tomar mi tecito",
+    "estado": "pendiente"
+  }
+]
