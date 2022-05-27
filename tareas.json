@@ -22,5 +22,9 @@
   {
     "titulo": "tomar mi tecito",
     "estado": "pendiente"
+  },
+  {
+    "titulo": "Hola gente de la comision 17",
+    "estado": "Terminado"
   }
 ]
